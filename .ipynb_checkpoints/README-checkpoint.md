@@ -2,16 +2,35 @@
 
 # FINOS DTCC Hackathon 
 
-
 ## Project Name
 Regulatory Compliance Assist
 
-
 ### Project Details
+Regulatory Compliance Assist
+Our solution uses Generative AI to help institutions navigate highly manual Risk and Compliance processes, providing the uplift and insights needed to maintain a proactive and sustainable controls environment.
 
+### Solution Components:
+    Reg Change summarizer - Upload multiple versions of a regulations and get automated summaries on what changed, overall & by section. Draft communication.
+    Chat with ‘Change Assist’ - Ask specific questions on “what’s new” and  “what changed” between versions of the regulation. 
+    Controls Compliance Assist - Automatically map L1/L2 controls to regulatory documents & identify partial compliance & suggested uplift
+
+### For the email Functionality
+
+It only requires two parameters <recipient_email> as <abc@emai.com> and comparison_output (summary of text/string type)
+The OUTLOOK_ACCESS_TOKEN expires every hour and needs to be replaced with the latest access token available here: https://developer.microsoft.com/en-us/graph/graph-explorer
 
 ### Team Information
 
+Bhawana Asija
+Sunil Kumar Dubey
+Rishi Ghosh
+Snehal Adhyapak
+Harshitha Chellamalla
+Bhagyashree Devendrappa
+Surya Bala Ramakrishnan
+Navnirman Singh
+Durga Vaidyanathan
+Amisha Reddy
 
 ## Using DCO to sign your commits
 

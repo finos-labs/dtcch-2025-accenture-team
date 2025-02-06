@@ -1,0 +1,14 @@
+numpy==1.26.4
+pandas==1.5.3
+flask==3.1.0
+flask-cors==5.0.0
+gunicorn==23.0.0
+boto3==1.36.6
+faiss-gpu==1.7.2
+PyPDF2==3.0.1
+langchain==0.3.17
+langchain-aws==0.2.12
+langchain-community==0.3.16
+markdown==3.7
+python-dotenv==1.0.1
+openpyxl==3.1.5

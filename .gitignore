@@ -25,6 +25,7 @@ __pycache__
 *.pyc
 *.tmp
 .pytest_cache
+.ipynb_checkpoints
 
 # MSFT Office
 ~$*.*
